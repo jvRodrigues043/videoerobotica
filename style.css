@@ -3,6 +3,6 @@ color: white; /* Define a cor do texto para branco*/
 blackground: black; /* Define a cor de fundo da página para preto*/
 margin: 0px; /* Remove a margem padrão de todos os lados do corpo da página. Isso faz com que o conteúdo comece bem no canto superior esquerdo.*/
 font- family: "chakra petch" , sans-serif; /* Define a fonte principal para a página. Se a fonte "Chakra Petch" não estiver disponível no dispositivo do usuário, ele usará qualquer fonte*/
-margin-bottom: 100px; /*Adiciona uma margem de 100 pixels apenas na parte de baixo do corpo da página.*/
+margin-buttom: 100px; /*Adiciona uma margem de 100 pixels apenas na parte de baixo do corpo da página.*/
 }
 
