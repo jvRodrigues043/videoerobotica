@@ -1,7 +1,7 @@
 body {
-color: white; /* Define a cor do texto para branco*/
-background: black; /* Define a cor de fundo da página para preto*/
-margin: 0px; /* quanto maior o número mais para o centro ele fica*/
+color: white;           /* Define a cor do texto para branco*/
+background: black;      /* Define a cor de fundo da página para preto*/
+margin: 0px;                /* quanto maior o número mais para o centro ele fica*/
 font-family: "chakra petch", sans-serif; /* altera fonte do texto como "Chakra Petch", disponível, ou então usa uma fonte sens-serif padrão*/
 margin-bottom: 100px; /*define uma margem de 100px (afastamento do conteúdo da parte inferior da página.*/
 
